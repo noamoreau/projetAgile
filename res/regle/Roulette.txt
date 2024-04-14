@@ -1,0 +1,14 @@
+La roulette est un jeu de casino dans lequel on fait des paris sur une bille qui tourne dans une roue et tombe sur un nombre au hasard.
+
+Il y a 37 chiffre dans la Roulette : de 0 à 36
+
+On peut faire des paris sur la table, limité a un paris a la fois.
+Il y a plusieurs paris possibles, plus les risque sont élevé, plus les gains sont important.
+On peut parier sur :
+
+- les couleurs (noir ou rouge), chaque chiffre(sauf 0) ont une couleur, on peut gagner 1 fois la mise,
+- pair ou impair, on peut gagner 1 fois la mise,
+- les moitiés (moitie1 ou moitie2), on peut parier sur la 1er moitié des chiffres (de 1 à 18) ou le reste avec la 2nd moitie (0 exclu), on peut gagner 1 fois la mise
+- les tiers (tiers1, 2 ou 3), comme la moitié mais avec le plateau coupé en tiers (de 1 à 12, de 13 à 24 ou de 25 à 36), on peut gagner 2 fois la mise,
+- les colonnes (colonne1, 2 ou 3), la table est coupé en colonnes, comme sur le dessin avec respectivement c1, c2 et c3, on peut gagner 2 fois la mise,
+- un chiffre, on peut parier sur n'importe quel chiffre de 0 à 36, on peut gagner 35 fois la mise.

@@ -1,0 +1,7 @@
+Le but du jeu est d'avoir un score plus élevé que le croupier sans dépasser 21"
+Si vous dépassez 21, vous perdez"
+            Si vous avez un score plus élevé que le croupier, vous gagnez"
+            Si vous avez un score égal au croupier, vous ne gagnez rien mais ne perdez rien"
+            Si vous avez un BlackJack (21 avec deux cartes), vous gagnez 1.5 fois votre mise"
+            Si vous avez un BlackJack et que le croupier a un BlackJack, vous ne gagnez rien mais ne perdez rien"
+            (et si vous trichez vous pouvez faire face a une amende de 50€ ainsi que la perte de votre mise)"

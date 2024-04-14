@@ -1,0 +1,6 @@
+Vous devez avoir le plus de nombre en commun avec le tirage (les nombres vont de 1 à 45)
+3 numeros en commun = 1250€
+4 numeros en commun = 2500€
+5 numeros en commun = 3750€
+6 numeros en commun = 5000€
+Vous pouvez tricher pour forcer le même symbole

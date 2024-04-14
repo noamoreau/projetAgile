@@ -1,0 +1,13 @@
+                                            Règle du Bingo 
+                Le jeu est simple ! 5 grilles ont été généré aléatoirement avec des nombres 
+                                          allant de 0 à 45.
+                A chaque tour, un chiffre va tomber aléatoirement. Le but est donc que tous les nombres
+                                de votre grille tombent en premier.
+                    Dans cette version du bingo, vous allez pouvoir tricher et enlever un
+                               chiffre qui n'est pas apparu à chaque tour.
+                        A chaque triche, votre pourcentage de chance de vous faire 
+                                attraper et virer du casino augmente.
+                               Vous aurez également une amende si vous 
+                               vous faites surprendre entrain de tricher.
+                        Donc prenez garde à ne pas vous faire attraper pour rafler
+                                            le jackpot !
