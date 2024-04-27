@@ -1,0 +1,1 @@
+Développement en groupe durant une semaine de ce jeu vidéo en utilisant la méthode agile SCRUM. Cela m'a permis d'avoir une première introduction à une méthode agile utilisée dans le monde professionnel. De plus, cela m'a permis d'améliorer mes compétences en développement de jeu vidéo.
